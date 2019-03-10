@@ -1,0 +1,18 @@
+html {
+	margin: 5px;
+}
+.frog {
+	width: 250px;
+	height: 150px;
+	border: 5px solid black;
+	margin: 5px;
+	background-color: green;
+}
+.row {
+	display: flex;
+}
+#pond {
+	align-content: center;
+	flex-wrap: wrap;
+	padding: 24%;
+}
